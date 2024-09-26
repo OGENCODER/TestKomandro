@@ -1,0 +1,3 @@
+ID: 1, Nama: Laptop, Stok: 8, Harga: 15000000.00, Kategori: Elektronik, Deskripsi: Laptop Gaming, Tanggal Masuk: 2024-09-01
+ID: 3, Nama: Laptop, Stok: 10, Harga: 15000000.00, Kategori: Elektronik, Deskripsi: Laptop Gaming, Tanggal Masuk: 2024-09-01
+ID: 4, Nama: Mouse, Stok: 50, Harga: 150000.00, Kategori: Aksesoris, Deskripsi: Mouse Wireless, Tanggal Masuk: 2024-09-10
